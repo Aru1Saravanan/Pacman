@@ -25,7 +25,7 @@ h1 {
 }
 
 .scoreBox {
-  width: 40%;
+  width: 30%;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -40,7 +40,7 @@ h1 {
 .grid {
   width: 56rem;
   height: 56rem;
-  margin: 2em auto;
+  margin: 1em auto;
   display: flex;
   flex-flow: row wrap;
   box-shadow: 0 0 10px 2px #001;
